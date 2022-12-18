@@ -8,13 +8,13 @@ To find the dataset used in this study, please make sure all files are downloade
 If you find this resource helpful, please cite.
 
 ```
-@article{Loi2016The,
-  title={The effects of immunomodulation by macrophage subsets on osteogenesis in vitro},
-  author={Loi, Florence and Córdova, Luis A. and Zhang, Ruth and Pajarinen, Jukka and Lin, Tzu Hua and Goodman, Stuart B. and Yao, Zhenyu},
-  journal={Stem Cell Research & Therapy},
+@article{,
+  title={},
+  author={},
+  journal={},
   volume={7},
   number={1},
   pages={15},
-  year={2016},
+  year={},
 }
 ```
