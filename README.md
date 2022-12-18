@@ -8,12 +8,6 @@ To find the dataset used in this study, please make sure all files are downloade
 If you find this resource helpful, please cite.
 
 ```
-@InProceedings{
-    author    = {},
-    title     = {Recognition of Aggressive Behavior of Group-housed Pigs Based on CNN-GRU Hybrid Model with Spatio-temporal Attention Mechanism},
-    booktitle = {},
-    month     = {},
-    year      = {},
-    pages     = {}
+Recognition of Aggressive Behavior of Group-housed Pigs Based on CNN-GRU Hybrid Model with Spatio-temporal Attention Mechanism
 } 
 ```
