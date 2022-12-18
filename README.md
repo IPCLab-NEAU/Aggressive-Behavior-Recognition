@@ -9,12 +9,12 @@ If you find this resource helpful, please cite.
 
 ```
 @article{,
-  title={},
-  author={},
-  journal={},
-  volume={7},
-  number={1},
-  pages={15},
-  year={},
+  title={Recognition of Aggressive Behavior of Group-housed Pigs Based on CNN-GRU Hybrid Model with Spatio-temporal Attention Mechanism},
+  author={Yue Gaoa，Kai Yana，Baisheng Daia,b,，Hongmin Suna,，Yanling Yina,b，Runze Liuc，Weizheng Shena},
+  journal={Computers and Electronics in Agriculture},
+  volume={},
+  number={},
+  pages={},
+  year={2022},
 }
 ```
