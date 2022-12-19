@@ -10,7 +10,7 @@ If you find this resource helpful, please cite.
 ```
 @article{,
   title={Recognition of Aggressive Behavior of Group-housed Pigs Based on CNN-GRU Hybrid Model with Spatio-temporal Attention Mechanism},
-  author={Yue Gaoa，Kai Yana，Baisheng Daia,b,，Hongmin Suna,，Yanling Yina,b，Runze Liuc，Weizheng Shena},
+  author={Yue Gao, Kai Yan, Baisheng Dai, Hongmin Sun, Yanling Yin, Runze Liu, Weizheng Shen},
   journal={Computers and Electronics in Agriculture},
   volume={},
   number={},
