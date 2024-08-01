@@ -14,17 +14,23 @@ Extraction code：**please email at bsdai@neau.edu.cn**
 ## 2️⃣ Results
 The experimental results are as below.
 
-| Method \ mAP@IoU (%) |  mAP  | EI(AP) | DI(AP) | ST(AP) | WK(AP) |
-| -------------------- | ----- | ------ | ------ | ------ | ------ |
-| Ours                 | 80.05 |  99.10 |  90.18 |  75.15 | 55.76  |
+| Model                |  Recall  | Precision | Accuracy |    F1   |
+| -------------------- | -------- | --------- | -------- | ------- |
+| Baseline             |  93.1 %  |  89.4 %   |  91.5 %  |  91.1 % |
+| -------------------- | -------- | --------- | -------- | ------- | 
+| Baseline + SA        |  94.2 %  |  93.1 %   |  93.7 %  |  93.6 % |
+| -------------------- | -------- | --------- | -------- | ------- | 
+| Baseline + TA        |  94.7 %  |  91.3 %   |  92.9 %  |  92.9 % |
+| -------------------- | -------- | --------- | -------- | ------- | 
+| Baseline + SA + TA   |  95.3 %  |  94.2 %   |  94.8 %  |  94.7 % |
 
-![image](https://github.com/user-attachments/assets/77a77ad0-4297-47cf-809e-16501f29712a)
+
 
 ## 3️⃣ Citation
 If you find this resource helpful, please use the following BibTeX entry.
 ```
 @article{
-    author    = {Yue Gao, Kai Yan, Baisheng Dai*, Hongmin Sun**, Yanling Yin, Runze Liu, Weizheng Shen},
+    author    = {Yue Gao and Kai Yan and Baisheng Dai and Hongmin Sun and Yanling Yin and Runze Liu and Weizheng Shen},
     title     = {Recognition of Aggressive Behavior of Group-housed Pigs Based on CNN-GRU Hybrid Model with Spatio-temporal Attention Mechanism},
     journal   = {Computers and Electronics in Agriculture},
     volume    = {205},
