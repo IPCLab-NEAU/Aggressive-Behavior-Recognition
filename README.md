@@ -7,7 +7,7 @@ __A novel CNN-GRU hybrid model with spatio-temporal attention mechanism was prop
 
 
 ## 1️⃣ Data
-To find the dataset used in this study, please make sure all files are downloaded from:  https://pan.baidu.com/s/1Gv5FgsK9fcfZU3p8cVEzPQ 
+To find the dataset used in this study, please make sure all files are downloaded from:  [https://pan.baidu.com/s/1A7zcJkeY19fhpjLPxJ19ZA]
 Extraction code：**please email at bsdai@neau.edu.cn**
 
 
